@@ -16,7 +16,7 @@ function App() {
       <nav className='navbar is-light is-fixed-top'>
         <div className='navbar-brand'>
           <Link className='navbar-item' to='home' spy={true} smooth={true}>
-            <img src={logo} alt='Manuel Fabri - Developer' />
+           
           </Link>
           <div
             role='button'
